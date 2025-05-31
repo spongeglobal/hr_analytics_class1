@@ -1,0 +1,16 @@
+Employee_ID,Age,Department,Tenure_Years,Salary_USD,Training_Hours,Manager_Feedback_Score,Job_Satisfaction,Left_Company
+E001,29,Sales,2.1,48000,12,3.8,3,0
+E002,35,IT,5.0,75000,20,4.5,4,0
+E003,42,HR,3.3,61000,15,3.2,2,1
+E004,25,Customer Care,1.8,42000,10,2.5,2,1
+E005,38,Finance,6.5,82000,22,4.7,5,0
+E006,30,IT,2.0,68000,14,3.9,3,0
+E007,45,Sales,7.2,90000,25,4.8,4,0
+E008,28,Customer Care,1.2,40000,8,2.3,1,1
+E009,33,HR,4.0,62000,18,4.1,4,0
+E010,40,Finance,5.5,87000,19,4.4,5,0
+E011,27,IT,1.5,67000,11,3.0,2,1
+E012,50,Sales,8.0,95000,30,4.9,5,0
+E013,31,HR,2.8,60000,16,3.6,3,1
+E014,26,Customer Care,1.0,41000,6,2.1,1,1
+E015,36,Finance,4.8,80000,21,4.2,4,0
