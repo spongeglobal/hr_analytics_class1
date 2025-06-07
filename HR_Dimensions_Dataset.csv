@@ -1,0 +1,101 @@
+EmployeeID,Department,JobRole,Location,Gender,Ethnicity,Level,AgeGroup,PerformanceTier,PayBand,TenureYears,HiringSource,EngagementScore,eNPS,TrainingHours,AbsenteeismDays,Salary,MarketSalary,NewHire,LeftWithin90Days,HighPerformer,PromotionLastYear,ExitReason,Rehired
+E0001,Sales,Software Engineer,Dubai,Male,Black,Mid,<25,High,Band 5,1.4,Recruiter,1.13,-77,27,7,96237,108907,0,0,1,0,Manager Issue,1
+E0002,Engineering,Marketing Specialist,Mumbai,Female,White,Mid,25-34,Medium,Band 1,1.5,LinkedIn,2.44,-12,77,8,135791,35695,1,0,1,0,Relocation,1
+E0003,Customer Support,HRBP,New York,Male,Black,Senior,<25,Low,Band 1,5.8,Recruiter,3.54,-7,20,11,76566,57460,1,0,0,0,Career Growth,1
+E0004,IT,Accountant,Singapore,Male,White,Entry,25-34,Low,Band 3,6.1,LinkedIn,1.84,45,91,10,57869,115909,1,1,1,0,Work-Life Balance,0
+E0005,HR,Accountant,Singapore,Female,Other,Lead,35-44,Low,Band 2,7.7,LinkedIn,4.02,-72,19,5,133819,119192,1,0,1,1,Relocation,1
+E0006,Finance,Software Engineer,New York,Non-Binary,Other,Senior,35-44,Low,Band 3,6.6,Recruiter,1.01,84,92,8,95612,129871,0,0,1,0,Career Growth,1
+E0007,Marketing,Software Engineer,Singapore,Female,Hispanic,Entry,<25,Medium,Band 3,3.7,Referral,4.51,-80,10,15,136957,39071,0,0,1,0,Work-Life Balance,1
+E0008,HR,HRBP,Dubai,Female,White,Lead,55+,Medium,Band 1,3.8,LinkedIn,2.35,50,70,7,107128,58864,0,0,0,0,Better Pay,0
+E0009,Customer Support,Sales Executive,Singapore,Male,White,Lead,25-34,High,Band 2,10.9,Internal,3.3,-38,100,15,135840,83354,0,0,0,1,Work-Life Balance,1
+E0010,IT,Operations Analyst,New York,Non-Binary,Asian,Entry,45-54,High,Band 3,12.0,LinkedIn,1.99,-52,68,14,48373,85296,0,1,1,0,None,0
+E0011,Operations,Sales Executive,New York,Non-Binary,Other,Entry,<25,Low,Band 2,6.2,Recruiter,1.85,2,7,5,79672,30282,1,1,1,1,Manager Issue,1
+E0012,Marketing,HRBP,Dubai,Male,Asian,Entry,35-44,Low,Band 1,8.8,Internal,4.68,35,20,1,96562,40500,0,0,0,0,Manager Issue,0
+E0013,HR,Software Engineer,Singapore,Male,Hispanic,Senior,35-44,Low,Band 3,3.7,Recruiter,1.52,65,38,14,71441,128548,0,0,1,0,Better Pay,0
+E0014,Finance,Marketing Specialist,Dubai,Male,Black,Senior,35-44,Low,Band 4,12.5,Job Board,3.45,67,67,0,117538,137099,1,0,0,1,Better Pay,0
+E0015,Marketing,Accountant,Dubai,Non-Binary,Black,Senior,25-34,High,Band 3,7.6,Job Board,4.62,-87,11,13,138704,66265,0,0,1,0,Culture,1
+E0016,Marketing,Operations Analyst,Singapore,Non-Binary,Hispanic,Entry,<25,Low,Band 2,8.2,Job Board,3.33,-63,55,4,35482,70404,1,0,1,0,Culture,0
+E0017,Sales,Support Agent,Singapore,Female,Other,Mid,25-34,Low,Band 2,13.2,LinkedIn,1.72,-15,100,13,135150,117806,0,1,0,0,Manager Issue,0
+E0018,Operations,HRBP,London,Female,White,Senior,25-34,Low,Band 1,9.9,Recruiter,2.31,-83,98,8,76025,114080,1,1,0,0,Work-Life Balance,0
+E0019,Finance,Software Engineer,New York,Non-Binary,Hispanic,Senior,35-44,Medium,Band 5,14.8,LinkedIn,2.54,47,24,8,35817,122901,1,0,0,1,Manager Issue,0
+E0020,Customer Support,Support Agent,New York,Non-Binary,White,Senior,45-54,Medium,Band 4,10.5,Internal,1.51,7,85,12,118777,128059,0,1,1,0,Work-Life Balance,1
+E0021,HR,SysAdmin,Singapore,Non-Binary,White,Lead,45-54,Medium,Band 2,7.7,Referral,3.64,-28,65,10,42240,137272,0,1,0,0,Career Growth,0
+E0022,Engineering,HRBP,Mumbai,Non-Binary,Asian,Lead,45-54,High,Band 5,3.0,Recruiter,2.98,-38,18,0,147002,128430,0,1,0,0,None,1
+E0023,Engineering,HRBP,New York,Female,Black,Lead,55+,High,Band 5,4.8,Recruiter,3.45,84,64,13,138864,148863,1,0,1,1,Work-Life Balance,0
+E0024,Finance,Operations Analyst,London,Female,Hispanic,Entry,35-44,Low,Band 3,5.1,Internal,1.32,-62,29,12,120957,50028,0,0,1,1,Work-Life Balance,1
+E0025,IT,Software Engineer,London,Female,Hispanic,Entry,55+,Medium,Band 4,0.2,Job Board,2.19,-1,53,7,93993,58760,1,1,1,0,Manager Issue,1
+E0026,IT,Marketing Specialist,Mumbai,Male,Other,Entry,45-54,High,Band 5,10.0,LinkedIn,3.57,-66,59,5,36590,64099,1,1,0,1,Work-Life Balance,1
+E0027,IT,Accountant,Mumbai,Female,Asian,Lead,<25,High,Band 5,0.9,Job Board,1.9,-83,99,1,128858,34067,0,0,0,0,Career Growth,0
+E0028,Operations,Sales Executive,Singapore,Male,Hispanic,Senior,35-44,Low,Band 5,9.1,LinkedIn,4.11,-59,39,3,105849,33365,1,1,1,0,Better Pay,0
+E0029,Sales,Accountant,Singapore,Male,Other,Entry,35-44,High,Band 4,10.0,LinkedIn,3.02,-13,1,13,137784,94251,0,1,1,1,Culture,0
+E0030,IT,Marketing Specialist,Singapore,Non-Binary,White,Lead,45-54,Medium,Band 5,4.1,Referral,4.32,-78,35,14,61963,128366,1,1,1,0,Manager Issue,1
+E0031,Marketing,Operations Analyst,London,Female,White,Senior,35-44,High,Band 3,8.4,Internal,4.79,-79,30,13,94038,102768,0,1,1,1,None,0
+E0032,Sales,Accountant,London,Female,Black,Senior,55+,Medium,Band 4,8.3,Job Board,2.7,90,70,10,76112,122124,1,1,1,1,Career Growth,0
+E0033,HR,Support Agent,New York,Non-Binary,Other,Mid,25-34,Low,Band 4,4.2,Internal,4.91,34,76,9,43176,139134,0,1,0,1,Career Growth,1
+E0034,Engineering,Marketing Specialist,Dubai,Male,Asian,Senior,25-34,High,Band 4,1.6,LinkedIn,3.3,20,61,14,74657,54164,0,1,1,0,None,0
+E0035,IT,Operations Analyst,New York,Non-Binary,Asian,Mid,25-34,High,Band 3,1.4,Referral,1.47,95,53,7,131671,98494,1,1,1,1,None,1
+E0036,Finance,Software Engineer,Singapore,Non-Binary,Asian,Mid,25-34,Medium,Band 1,2.4,Referral,3.21,-60,0,13,89048,120357,1,1,0,0,Work-Life Balance,1
+E0037,Operations,Sales Executive,London,Female,Other,Mid,45-54,Low,Band 5,3.4,Referral,4.63,-64,9,1,51747,133891,1,1,1,0,Manager Issue,1
+E0038,IT,Accountant,Singapore,Non-Binary,Hispanic,Lead,<25,High,Band 1,13.4,Job Board,3.41,-94,11,7,118381,139570,0,1,0,0,Manager Issue,1
+E0039,Finance,Marketing Specialist,Singapore,Female,Hispanic,Entry,45-54,Medium,Band 4,5.1,LinkedIn,4.43,-16,52,15,67777,116846,1,0,1,0,Work-Life Balance,1
+E0040,Customer Support,Sales Executive,Mumbai,Non-Binary,Asian,Lead,45-54,Low,Band 2,7.8,Internal,4.03,60,56,1,56680,65003,0,1,1,1,Better Pay,0
+E0041,HR,Marketing Specialist,Dubai,Non-Binary,Asian,Lead,<25,Low,Band 1,7.0,LinkedIn,3.59,-61,63,9,96698,122459,1,1,1,1,Career Growth,1
+E0042,Marketing,SysAdmin,London,Non-Binary,Other,Mid,<25,Medium,Band 4,5.2,Internal,2.07,-100,36,9,139769,106931,1,0,1,1,Work-Life Balance,1
+E0043,IT,Operations Analyst,Dubai,Male,Black,Lead,25-34,Medium,Band 1,4.8,Recruiter,3.82,-3,49,4,94923,34852,0,1,0,1,Better Pay,1
+E0044,Engineering,Marketing Specialist,Mumbai,Non-Binary,Black,Entry,45-54,Medium,Band 3,9.4,Recruiter,3.6,-16,86,12,71505,112155,1,0,0,0,Culture,1
+E0045,HR,Sales Executive,Mumbai,Male,Asian,Lead,25-34,High,Band 3,13.6,LinkedIn,2.3,-86,37,11,79131,86450,0,0,1,0,Career Growth,0
+E0046,Sales,SysAdmin,Singapore,Non-Binary,Black,Lead,55+,Low,Band 2,7.0,Job Board,2.84,70,1,14,148123,67700,0,0,1,1,Relocation,1
+E0047,IT,Accountant,Mumbai,Female,Black,Lead,45-54,Low,Band 2,5.8,Job Board,3.3,79,37,0,138794,116275,1,1,0,0,Relocation,1
+E0048,Finance,HRBP,Singapore,Female,Black,Mid,55+,Medium,Band 2,9.5,LinkedIn,2.24,12,4,11,125991,47224,0,1,1,1,Career Growth,0
+E0049,Marketing,Support Agent,Singapore,Non-Binary,White,Mid,35-44,Medium,Band 3,11.2,Job Board,4.22,19,9,4,128848,59571,1,1,0,1,Better Pay,1
+E0050,Sales,Operations Analyst,Dubai,Non-Binary,White,Lead,35-44,Low,Band 2,7.1,Internal,4.54,43,41,7,114889,38285,1,1,1,0,Career Growth,0
+E0051,Engineering,Accountant,Mumbai,Male,Asian,Mid,55+,Low,Band 4,6.9,Internal,2.68,90,93,4,146052,84379,0,1,1,1,Better Pay,1
+E0052,HR,Operations Analyst,Mumbai,Male,White,Entry,35-44,High,Band 3,1.0,Job Board,1.76,-69,58,2,116870,57801,0,0,1,0,Career Growth,0
+E0053,Sales,HRBP,Singapore,Male,Black,Senior,25-34,High,Band 1,4.2,Referral,4.95,38,32,5,44408,116646,0,0,0,1,None,0
+E0054,Customer Support,Software Engineer,London,Female,Asian,Mid,45-54,High,Band 1,11.2,Recruiter,2.79,-8,65,3,89245,96039,0,0,1,1,Culture,0
+E0055,Engineering,Operations Analyst,Mumbai,Female,Asian,Lead,45-54,Low,Band 1,4.9,Referral,1.26,-30,79,10,79925,108301,1,1,1,0,None,0
+E0056,HR,SysAdmin,Mumbai,Male,Hispanic,Senior,45-54,Medium,Band 4,11.0,Job Board,2.71,70,32,11,50006,120023,1,0,0,0,Better Pay,1
+E0057,Sales,Support Agent,London,Non-Binary,Asian,Senior,<25,Medium,Band 3,13.1,Recruiter,4.47,84,6,9,108696,70953,1,0,0,0,Culture,1
+E0058,HR,Sales Executive,Dubai,Non-Binary,White,Entry,35-44,High,Band 2,12.1,Internal,4.9,59,78,0,109822,116223,1,0,0,1,Culture,1
+E0059,Customer Support,Support Agent,New York,Male,Black,Lead,<25,Low,Band 1,1.5,Internal,1.86,7,58,10,50631,78503,1,1,0,0,Career Growth,0
+E0060,Engineering,Sales Executive,Dubai,Female,Hispanic,Lead,55+,Medium,Band 4,4.2,Internal,1.46,10,14,9,118895,118930,1,1,0,0,Manager Issue,0
+E0061,Engineering,HRBP,Dubai,Male,Black,Senior,35-44,Medium,Band 1,0.2,Recruiter,1.7,-3,68,7,95570,103233,1,0,1,0,Manager Issue,0
+E0062,Operations,Sales Executive,Dubai,Non-Binary,Hispanic,Lead,45-54,Medium,Band 1,6.1,Job Board,1.69,58,58,11,41551,87240,0,0,1,1,Relocation,0
+E0063,IT,Accountant,Dubai,Male,White,Mid,<25,High,Band 1,8.0,Referral,4.62,-11,44,4,60968,43474,0,1,0,0,Relocation,0
+E0064,Sales,Marketing Specialist,Mumbai,Female,Other,Lead,55+,High,Band 5,4.9,Job Board,1.6,-83,60,14,112756,69691,1,0,1,0,Work-Life Balance,1
+E0065,Operations,Software Engineer,New York,Female,White,Entry,<25,High,Band 5,7.7,Recruiter,3.32,89,5,14,149150,136144,0,1,1,0,Better Pay,1
+E0066,Sales,Support Agent,New York,Non-Binary,Black,Entry,25-34,High,Band 4,14.9,Internal,3.09,-60,46,11,67079,80779,1,1,0,1,Better Pay,1
+E0067,Sales,SysAdmin,Dubai,Female,Other,Mid,35-44,Low,Band 5,10.0,Job Board,2.24,67,89,12,46901,107993,0,1,1,1,None,0
+E0068,Sales,SysAdmin,Singapore,Female,Asian,Senior,35-44,Low,Band 2,5.2,Recruiter,1.77,-65,19,2,68770,140680,0,0,1,0,Relocation,1
+E0069,Marketing,Marketing Specialist,London,Non-Binary,Other,Mid,45-54,Low,Band 4,5.5,Referral,4.88,56,36,14,60671,99993,0,1,1,0,Work-Life Balance,1
+E0070,Operations,Accountant,Mumbai,Non-Binary,Other,Lead,25-34,Low,Band 5,2.2,Job Board,1.21,23,47,3,123244,140872,0,1,0,0,Work-Life Balance,1
+E0071,Marketing,SysAdmin,New York,Male,Hispanic,Senior,<25,Medium,Band 1,6.0,Job Board,1.94,-80,47,7,33694,71770,0,1,0,0,Better Pay,1
+E0072,Operations,Marketing Specialist,Mumbai,Female,Other,Entry,<25,Low,Band 3,3.3,Referral,3.2,86,77,13,44573,131734,1,0,1,0,Better Pay,0
+E0073,IT,Operations Analyst,New York,Male,Hispanic,Entry,55+,High,Band 2,10.8,Job Board,2.72,57,45,7,104798,84600,0,0,1,0,Relocation,0
+E0074,IT,Operations Analyst,New York,Non-Binary,Hispanic,Senior,35-44,High,Band 1,5.4,LinkedIn,2.38,87,84,3,131122,106271,1,0,0,1,Relocation,1
+E0075,Marketing,Operations Analyst,Mumbai,Non-Binary,Black,Mid,<25,High,Band 4,0.7,Referral,1.18,-49,5,10,70642,97552,1,1,1,0,None,0
+E0076,Finance,Support Agent,New York,Non-Binary,White,Senior,<25,Medium,Band 4,13.4,Recruiter,4.58,-2,43,5,95038,120710,1,1,1,0,Culture,1
+E0077,Sales,SysAdmin,Singapore,Male,Other,Senior,35-44,Low,Band 1,5.0,Job Board,2.23,54,91,13,51842,120408,1,1,1,0,Culture,1
+E0078,IT,Accountant,New York,Male,Hispanic,Senior,55+,High,Band 2,14.3,Referral,4.39,73,100,14,34561,46545,0,0,1,1,Manager Issue,0
+E0079,Marketing,Operations Analyst,Dubai,Female,Hispanic,Entry,55+,Low,Band 5,5.6,Job Board,3.6,-37,14,0,126426,54385,1,1,0,1,None,1
+E0080,Operations,HRBP,Singapore,Female,Hispanic,Mid,<25,Low,Band 1,6.8,Recruiter,4.99,74,40,11,123000,38511,1,1,0,0,None,1
+E0081,HR,Sales Executive,London,Male,Black,Lead,<25,Medium,Band 5,8.6,Recruiter,4.21,41,16,2,38617,70539,1,1,1,1,None,0
+E0082,Marketing,Support Agent,New York,Female,Hispanic,Senior,25-34,High,Band 5,2.8,Referral,2.73,-86,15,4,69862,51581,0,1,0,1,Relocation,1
+E0083,Sales,Accountant,London,Non-Binary,Other,Senior,25-34,High,Band 3,9.3,LinkedIn,3.01,-57,75,4,52439,116341,1,0,0,0,Better Pay,1
+E0084,HR,SysAdmin,Singapore,Non-Binary,Asian,Lead,55+,Medium,Band 3,7.3,Recruiter,2.19,-82,88,1,50719,87619,1,1,1,0,Work-Life Balance,0
+E0085,Customer Support,Support Agent,Dubai,Female,Black,Senior,55+,High,Band 1,4.9,Recruiter,1.49,15,31,4,42689,36632,1,1,1,0,None,0
+E0086,Customer Support,Support Agent,London,Male,Hispanic,Lead,45-54,Medium,Band 4,0.4,Recruiter,3.02,-39,27,11,36377,36624,1,1,1,1,Relocation,0
+E0087,Sales,SysAdmin,London,Female,White,Lead,35-44,Low,Band 4,0.9,Internal,1.78,41,36,2,80639,96093,1,1,0,0,Better Pay,1
+E0088,Customer Support,Support Agent,Singapore,Female,Black,Mid,55+,High,Band 4,7.6,LinkedIn,1.16,82,42,15,98069,89898,0,0,1,1,Career Growth,1
+E0089,Finance,Support Agent,Singapore,Non-Binary,Other,Lead,55+,Medium,Band 4,12.3,Job Board,2.32,-72,53,9,134432,147803,0,1,1,0,Culture,0
+E0090,Operations,Marketing Specialist,Singapore,Non-Binary,Other,Lead,25-34,High,Band 2,0.6,LinkedIn,1.76,12,40,13,49848,84127,0,1,1,0,Culture,0
+E0091,HR,Support Agent,Mumbai,Non-Binary,Hispanic,Senior,25-34,Medium,Band 5,5.2,Job Board,3.7,84,87,8,109963,93462,0,0,1,1,Career Growth,1
+E0092,Finance,HRBP,Mumbai,Female,Hispanic,Senior,55+,High,Band 3,4.4,Internal,3.71,-3,50,11,131327,135462,0,1,0,1,Culture,0
+E0093,Customer Support,Operations Analyst,Dubai,Non-Binary,Hispanic,Mid,25-34,High,Band 3,14.0,Job Board,1.55,57,94,7,61779,36653,0,0,0,0,Manager Issue,1
+E0094,Operations,Sales Executive,London,Male,Other,Mid,45-54,High,Band 4,7.2,Referral,4.02,-27,41,9,114659,37754,0,0,0,0,Manager Issue,0
+E0095,Engineering,SysAdmin,Mumbai,Male,White,Entry,<25,Medium,Band 5,9.1,Job Board,2.14,64,69,15,146557,47589,1,1,0,0,Work-Life Balance,0
+E0096,Operations,Accountant,London,Male,White,Senior,55+,High,Band 2,2.7,Recruiter,4.31,31,41,2,82538,117720,0,0,0,1,Work-Life Balance,0
+E0097,Engineering,Accountant,Mumbai,Male,Hispanic,Senior,35-44,Medium,Band 5,10.9,LinkedIn,2.05,-8,88,7,38142,117528,0,1,1,0,Manager Issue,1
+E0098,Sales,Accountant,Dubai,Non-Binary,Black,Mid,25-34,Medium,Band 2,6.9,Internal,2.49,79,70,15,129267,100453,0,0,0,1,Relocation,1
+E0099,Sales,Sales Executive,New York,Non-Binary,Other,Mid,55+,High,Band 2,2.6,Internal,2.77,74,26,15,41919,147819,1,0,1,0,Relocation,1
+E0100,Operations,Software Engineer,Singapore,Female,White,Entry,45-54,Medium,Band 1,11.2,Internal,1.29,8,44,2,100931,37897,0,1,0,1,Manager Issue,0
